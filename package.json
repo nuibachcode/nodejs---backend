@@ -1,0 +1,27 @@
+{
+  "name": "full-backen-zero",
+  "version": "1.0.0",
+  "description": "hoi dan it fullstack backend zero",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuibachcode/nodejs---backend.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "Hoi Dan IT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuibachcode/nodejs---backend/issues"
+  },
+  "homepage": "https://github.com/nuibachcode/nodejs---backend#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
